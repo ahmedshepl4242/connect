@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1672458059 source:c:\users\33ahm\desktop\test last code\main.c
+	"global.h"
+	<stdio.h>
+	<sys/types.h>
+	"top_rank.h"
+	<stdlib.h>
+	<time.h>
+	"parseXML.h"
+	"load_save.h"
+	"score.h"
+	"vs_computer.h"
+	"undo.h"
+
+1672457310 c:\users\33ahm\desktop\test last code\top_rank.h
+
+1672353127 c:\users\33ahm\desktop\test last code\parsexml.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1672418399 c:\users\33ahm\desktop\test last code\score.h
+
+1672452883 c:\users\33ahm\desktop\test last code\vs_computer.h
+
+1672452636 source:c:\users\33ahm\desktop\test last code\tempo.c
+
+1672442346 c:\users\33ahm\desktop\test last code\global.h
+
+1672441497 c:\users\33ahm\desktop\test last code\load_save.h
+
+1672442068 c:\users\33ahm\desktop\test last code\undo.h
+
